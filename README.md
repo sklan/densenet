@@ -15,5 +15,5 @@ Pretrained Models:
 
 | Model         |  L |  K | C10  | C10+ |
 |---------------|:--:|:--:|------|------|
-| [DenseNet]()  | 40 | 12 | 90.5 | 92.0 |
-| [DenseNetC]() | 40 | 12 | 91.7 | 92.0 |
+| [DenseNet](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNet4012_CIFAR10.h5)  | 40 | 12 | 90.5 | --- |
+| [DenseNetC](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNetC4012_CIFAR10.h5) | 40 | 12 | 91.7 | --- |
