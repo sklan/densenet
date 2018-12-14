@@ -15,9 +15,8 @@ This enables maximum information between the layers.
 
 | Model         |  L |  K | C10  | C10+ |
 |---------------|:--:|:--:|------|------|
-| DenseNet  | 40 | 12 | [92.9](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNet4012_CIFAR10.h5) | [93.0](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNet4012_CIFAR10+.h5)|
-| DenseNetC | 40 | 12 | [91.7](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNetC4012_CIFAR10.h5) | --- |
-| DenseNetBC| 40 | 12 | --- | --- |
+| DenseNet  | 40 | 12 | [92.90](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNet4012_CIFAR10.h5) | [93.03](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNet4012_CIFAR10+.h5)|
+| DenseNetC | 40 | 12 | [91.70](https://github.com/Sklan/densenet/blob/master/CIFAR10/DenseNetC4012_CIFAR10.h5) | ---- |
 
 
 ## Arguments
