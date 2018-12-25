@@ -8,7 +8,7 @@ Recent advances in computer hardware has allowed researchers to train very deep 
 However, as information passes through many layers, it can vanish. 
 To address this problem of vanishing gradient the key idea is to connect early layers to the later layers. 
 DenseNet takes this simple idea further and connects all layers directly with each other. 
-This enables maximum information between the layers.
+This enables maximum information flow between the layers.
 
 ## Pretrained Models:
 
