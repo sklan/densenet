@@ -2,7 +2,7 @@
 
 This repository contains an implementation of DenseNet in Keras. 
 DenseNet is a neural network architecture for object recognition.
-DenseNet were introduced in the paper [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) which won the CVPR 2017 best paper award.
+DenseNet was introduced in the paper [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) which won the CVPR 2017 best paper award.
 
 Recent advances in computer hardware has allowed researchers to train very deep neural network models. 
 However, as information passes through many layers, it can vanish. 
